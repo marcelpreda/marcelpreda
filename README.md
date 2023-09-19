@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marcel Preda
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning git versioning control, I have a lot experience subversion but not too much with git.
 - 💞️ I’m looking to collaborate on projects related to programming: python, perl, php, Java, Javascript, Android, Skill language from Cadence
 - 📫 Best way to reach me is by email: marcel_preda@yahoo.com 
 
